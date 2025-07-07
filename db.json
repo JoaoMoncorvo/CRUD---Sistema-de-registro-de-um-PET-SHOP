@@ -1,6 +1,6 @@
 [
     {
-        "nome": "Mel Moncorvo",
+        "nome": "Mel",
         "tipo": "cachorro",
         "endereco": "av salvador allende",
         "idade": 10.0,
@@ -8,7 +8,7 @@
         "raca": "pinscher"
     },
     {
-        "nome": "Lili Moncorvo",
+        "nome": "Lili",
         "tipo": "gato",
         "endereco": "av salvador allende",
         "idade": 3.0,
