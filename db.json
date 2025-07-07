@@ -1,0 +1,34 @@
+[
+    {
+        "nome": "Mel Moncorvo",
+        "tipo": "cachorro",
+        "endereco": "av salvador allende",
+        "idade": 10.0,
+        "peso": 4.5,
+        "raca": "pinscher"
+    },
+    {
+        "nome": "Lili Moncorvo",
+        "tipo": "gato",
+        "endereco": "av salvador allende",
+        "idade": 3.0,
+        "peso": 3.0,
+        "raca": "frajola"
+    },
+    {
+        "nome": "Antonio",
+        "tipo": "cachorro",
+        "endereco": "av salvador allende",
+        "idade": 2.0,
+        "peso": 1.2,
+        "raca": "pinscher"
+    },
+    {
+        "nome": "Mel",
+        "tipo": "cachorro",
+        "endereco": "avenida das americas, 931",
+        "idade": 7.0,
+        "peso": 2.0,
+        "raca": "pinscher"
+    }
+]
