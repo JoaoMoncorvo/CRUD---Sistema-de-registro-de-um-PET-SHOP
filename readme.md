@@ -16,5 +16,5 @@ Este é um sistema de cadastro de pets (CRUD) desenvolvido em Python, usando arq
 
 
 ## MELHORIAS PRO FUTURO
-- Deixar programa mais responsivo e menos sucetivo a erro de usuario.
+- Deixar programa mais responsivo e menos sucetivo a erros de usuarios.
 - Mudar o banco de dados pra um SQL (isso ja estou fazendo o= )

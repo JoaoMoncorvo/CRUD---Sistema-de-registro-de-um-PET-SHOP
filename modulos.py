@@ -69,7 +69,7 @@ def AlterarDados():
 
         for pet in db:
             if pet == lista[escolhaFinal - 1]:
-                pet[f'{escolhaDado}'].lower() = escolhaDadoSwitch.lower()
+                pet[f'{escolhaDado}'] = escolhaDadoSwitch.lower()
                 print(f'troca feita com sucesso, agora o registro ficou assim: {pet}')
             
         with open('db.json', 'w', encoding='utf-8') as arquivo2:

@@ -30,5 +30,13 @@
         "idade": 7.0,
         "peso": 2.0,
         "raca": "pinscher"
+    },
+    {
+        "nome": "rex moncorvo",
+        "tipo": "cachorro",
+        "endereco": "rua sao jose",
+        "idade": 1.0,
+        "peso": 6.0,
+        "raca": "vira lata"
     }
 ]
