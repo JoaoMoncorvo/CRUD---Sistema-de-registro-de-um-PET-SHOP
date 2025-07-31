@@ -151,4 +151,3 @@ def ListarPorCriterio():
             continue
         elif escolha == 2:
             break
-        
